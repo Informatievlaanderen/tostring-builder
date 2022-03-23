@@ -1,3 +1,21 @@
+# [3.0.0](https://github.com/informatievlaanderen/tostring-builder/compare/v2.2.15...v3.0.0) (2022-03-23)
+
+
+### Bug Fixes
+
+* rebuild locks after pipeline update ([a58a414](https://github.com/informatievlaanderen/tostring-builder/commit/a58a414d799ab615a4df8ce28f01ead1e96b77db))
+* update pipeline paket ([25978c6](https://github.com/informatievlaanderen/tostring-builder/commit/25978c6ef5f4e65e55e62419f7cdaac4baab3891))
+
+
+### Features
+
+* move to dotnet 6.0.3 ([4518139](https://github.com/informatievlaanderen/tostring-builder/commit/45181396d60372c0adf5d8100d7d7878a9ffb731))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.2.15](https://github.com/informatievlaanderen/tostring-builder/compare/v2.2.14...v2.2.15) (2021-05-28)
 
 
