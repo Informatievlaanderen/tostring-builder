@@ -1,8 +1,6 @@
 name: CI
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -53,7 +51,7 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: ${{ secrets.VBR_DOTNET_VERSION }}
+        dotnet-version: ${{ vars.VBR_LIB_DOTNET_VERSION }}
 
     - name: Set up Python
       uses: actions/setup-python@v3
