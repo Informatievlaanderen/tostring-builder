@@ -49,7 +49,7 @@ jobs:
       shell: bash
       run: |
         dotnet tool restore
-        dotnet paket retore
+        dotnet paket restore
         dotnet restore
 
     - name: Cache SonarCloud packages
