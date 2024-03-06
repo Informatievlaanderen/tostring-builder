@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/tostring-builder/compare/v3.0.0...v4.0.0) (2024-03-06)
+
+
+### Features
+
+* upgrade dotnet8 ([8519a8b](https://github.com/informatievlaanderen/tostring-builder/commit/8519a8b364f507822b2e63852fda4bc7454a52f3))
+
+
+### BREAKING CHANGES
+
+* upgrade to dotnet 8 + new build pipeline
+
 # [3.0.0](https://github.com/informatievlaanderen/tostring-builder/compare/v2.2.15...v3.0.0) (2022-03-23)
 
 
