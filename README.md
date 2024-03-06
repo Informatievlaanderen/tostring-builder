@@ -1,4 +1,4 @@
-# Be.Vlaanderen.Basisregisters.Utilities.ToStringBuilder [![Build Status](https://github.com/Informatievlaanderen/tostring-builder/workflows/CI/badge.svg)](https://github.com/Informatievlaanderen/tostring-builder/actions)
+# Be.Vlaanderen.Basisregisters.Utilities.ToStringBuilder [![Build Status](https://github.com/Informatievlaanderen/tostring-builder/workflows/Build/badge.svg)](https://github.com/Informatievlaanderen/tostring-builder/actions)
 
 ## Goal
 
