@@ -39,7 +39,6 @@ namespace Be.Vlaanderen.Basisregisters.Utilities
             }
 
             return stringValuesFunc.Aggregate(StringAggregator).ToString();
-            //return $"{{ {stringValuesFunc(x).Aggregate(StringAggregator)} }}";
         }
     }
 }

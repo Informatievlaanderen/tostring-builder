@@ -1,0 +1,17 @@
+<Project>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.9.0" />
+        <PackageVersion Include="xunit" Version="2.7.0" />
+        <PackageVersion Include="xunit.runner.visualstudio" Version="2.5.7" />
+        <PackageVersion Include="FluentAssertions" Version="6.12.0" />
+        <PackageVersion Include="SourceLink.Embed.AllSourceFiles" Version="2.8.3">
+            <Private>true</Private>
+        </PackageVersion>
+        <PackageVersion Include="SourceLink.Copy.PdbFiles" Version="2.8.3">
+            <Private>true</Private>
+        </PackageVersion>
+    </ItemGroup>
+</Project>
