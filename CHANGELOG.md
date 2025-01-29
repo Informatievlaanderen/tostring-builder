@@ -1,3 +1,10 @@
+## [4.0.8](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.7...v4.0.8) (2025-01-29)
+
+
+### Bug Fixes
+
+* dependencies of nuget package ([cf7686d](https://github.com/informatievlaanderen/tostring-builder/commit/cf7686dcfcb0cac02e84dd875b28df448ba6c883))
+
 ## [4.0.7](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.6...v4.0.7) (2025-01-29)
 
 
