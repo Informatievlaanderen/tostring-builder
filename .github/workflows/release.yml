@@ -30,11 +30,7 @@ jobs:
 
     - name: Install NPM dependencies
       shell: bash
-      run: npm ci
-
-    - name: Restore build-pipeline
-      shell: bash
-      run: ./pre-restore.sh
+      run: npm ci    
 
     - name: Run Semantic Release Dry-Run
       shell: bash
@@ -225,6 +221,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests markdown argparse
+
+      - name: Restore build-pipeline
+        shell: bash
+        run: ./pre-restore.sh
 
       - name: Publish to Confluence
         shell: bash
