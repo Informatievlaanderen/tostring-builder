@@ -1,3 +1,10 @@
+## [4.0.7](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.6...v4.0.7) (2025-01-29)
+
+
+### Bug Fixes
+
+* packaging metadata ([3787b80](https://github.com/informatievlaanderen/tostring-builder/commit/3787b80cb9bacfe2d671c93c75e2c8e6aaa22b63))
+
 ## [4.0.6](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.5...v4.0.6) (2025-01-29)
 
 
