@@ -32,6 +32,10 @@ jobs:
       shell: bash
       run: npm ci
 
+    - name: Restore build-pipeline
+      shell: bash
+      run: ./pre-restore.sh
+
     - name: Run Semantic Release Dry-Run
       shell: bash
       run: npx semantic-release --dry-run
