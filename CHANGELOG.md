@@ -1,3 +1,10 @@
+## [4.0.5](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.4...v4.0.5) (2025-01-29)
+
+
+### Bug Fixes
+
+* **ci:** add cache setupdotnet +  to trigger release ([d23e293](https://github.com/informatievlaanderen/tostring-builder/commit/d23e293ce06d1f832847b684aa11f22d55ef136a))
+
 ## [4.0.4](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.3...v4.0.4) (2025-01-29)
 
 

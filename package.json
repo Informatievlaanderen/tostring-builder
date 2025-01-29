@@ -1,6 +1,6 @@
 {
   "name": "tostring-builder",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "Easily customize ToString of objects by concatting given properties of the object into a string.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
