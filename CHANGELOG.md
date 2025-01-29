@@ -1,3 +1,10 @@
+## [4.0.6](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.5...v4.0.6) (2025-01-29)
+
+
+### Bug Fixes
+
+* bump dependencies ([ddbaba4](https://github.com/informatievlaanderen/tostring-builder/commit/ddbaba47d3c4f306ad13a627d16302189027b44b))
+
 ## [4.0.5](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.4...v4.0.5) (2025-01-29)
 
 
