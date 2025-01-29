@@ -1,3 +1,5 @@
+## [4.0.1](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.0...v4.0.1) (2025-01-29)
+
 # [4.0.0](https://github.com/informatievlaanderen/tostring-builder/compare/v3.0.0...v4.0.0) (2024-03-06)
 
 
