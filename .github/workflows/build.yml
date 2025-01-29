@@ -31,6 +31,8 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: ${{ vars.VBR_DOTNET_VERSION_8 }}
+        cache: true
+        cache-dependency-path: "**/packages.lock.json"
 
     - name: .NET version
       shell: bash
@@ -41,7 +43,7 @@ jobs:
       run: |
         ./pre-restore.sh
         dotnet tool restore
-        dotnet restore
+        dotnet restore --locked-mode
 
     - name: Cache SonarCloud packages
       uses: actions/cache@v4
