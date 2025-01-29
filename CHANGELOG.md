@@ -1,3 +1,10 @@
+## [4.0.3](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.2...v4.0.3) (2025-01-29)
+
+
+### Bug Fixes
+
+* **ci:** confluence ([0b4cca8](https://github.com/informatievlaanderen/tostring-builder/commit/0b4cca8548d4a6cb1fba089e4ba87361da7ed0eb))
+
 ## [4.0.2](https://github.com/informatievlaanderen/tostring-builder/compare/v4.0.1...v4.0.2) (2025-01-29)
 
 
