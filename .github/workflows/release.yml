@@ -109,10 +109,6 @@ jobs:
       shell: bash
       run: node --version
 
-    - name: .NET version
-      shell: bash
-      run: dotnet --info
-
     - name: Python version
       shell: bash
       run: python --version
@@ -170,6 +166,8 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: ${{ vars.VBR_DOTNET_VERSION_8 }}
+        cache: true
+        cache-dependency-path: "**/packages.lock.json"
 
     - name: .NET version
       shell: bash
