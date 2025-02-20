@@ -4,11 +4,7 @@
 .ionide/
 .paket/
 
-[Pp]ackages/**/*
-![Pp]ackages
-![Pp]ackages/Be.Vlaanderen.Basisregisters.Build.Pipeline
-![Pp]ackages/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content
-![Pp]ackages/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content/*.props
+[Pp]ackages/
 [Pp]aket-files/
 [Dd]ebug/
 [Rr]elease/
