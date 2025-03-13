@@ -14,8 +14,9 @@
     <Description>Easily customize ToString of objects by concatenating given properties of the object into a string.</Description>
   </PropertyGroup>
 
-  <PropertyGroup>
+  <PropertyGroup>    
     <TargetFramework>netstandard2.1</TargetFramework>
+    <OutputType>Library</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
