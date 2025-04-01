@@ -1,5 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
-  <Import Project="..\..\packages\Be.Vlaanderen.Basisregisters.Build.Pipeline\Content\Be.Vlaanderen.Basisregisters.Build.Pipeline.Settings.Test.props" />
+  <Import Project="..\..\.build\Be.Vlaanderen.Basisregisters.Build.Pipeline\Content\Be.Vlaanderen.Basisregisters.Build.Pipeline.Settings.Test.props" />
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Be.Vlaanderen.Basisregisters.Utilities.ToStringBuilder\Be.Vlaanderen.Basisregisters.Utilities.ToStringBuilder.csproj" />
